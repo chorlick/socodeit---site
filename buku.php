@@ -7,7 +7,7 @@
 <title>Socodeit - Home</title>
 <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
 <link href="http://fonts.googleapis.com/css?family=Coda:400,800" rel="stylesheet" type="text/css" />
-<link href="/css/style-home.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/css/style.css" rel="stylesheet" type="text/css" media="screen" />
 </head>
 <body>
 <div id="menu-wrapper">
@@ -19,11 +19,14 @@
 <div id="header-wrapper">
 	<div id="header">
 		<div id="logo">
-			<h1><a href="#">socode<span>it</span></a></h1>
+			<h1>
+				<a href="#">socode<span>it</span></a>
+			</h1>
+			<p>Tradeshow Order System</p>
 		</div>
 	</div>
 </div>
-<div id="banner"><img src="images/img04.jpg" width="1000" height="350" alt="" /></div>
+<div id="banner"></div>
 <div id="wrapper">
 	<!-- end #header -->
 	<div id="page">
